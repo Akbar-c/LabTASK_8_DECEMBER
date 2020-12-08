@@ -3,7 +3,7 @@
     $users=getUsers();
 ?>
 <html>
-    <head><title>Dashboard</title></head>
+    <head><title>Welcome to Webtech</title></head>
     <body>
         <center>
         <h1 style="color: green">My Dashboard</h1>
